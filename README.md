@@ -1,2 +1,19 @@
 # AMM_Blockchain
 Final Project for Blockchain Technology class, Automated Market Maker
+
+
+
+Resources:
+file hierarchy should look like the following in Remix 
+![image](https://user-images.githubusercontent.com/43255897/162575808-141587b3-7896-45d5-a205-01ea069515ca.png)
+
+
+For token templates:
+https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20
+
+
+For making AMM contract folling instructions from here:
+https://learn.figment.io/tutorials/create-an-amm-on-avalanche
+
+I have successfully buitl and deployed both the ERC20 tokens and AMM constracts using Solidty, once deployed you will see options such as this:
+![image](https://user-images.githubusercontent.com/43255897/162576066-83d6b920-2b0a-4a97-8b31-ca9940319648.png)
