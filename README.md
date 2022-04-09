@@ -10,6 +10,8 @@ file hierarchy should look like the following in Remix
 
 For token templates:
 https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/token/ERC20
+Deploying a custom ERC20 token instructions:
+https://blog.logrocket.com/create-deploy-erc-20-token-ethereum-blockchain/
 
 
 For making AMM contract folling instructions from here:
