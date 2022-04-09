@@ -1,6 +1,6 @@
 # AMM_Blockchain
 Final Project for Blockchain Technology class, Automated Market Maker
-
+You need to copy paste the files into Remix in the format they are stored here. When we create our own custom token just create a new file with the name of your token and upload by adding file and then commiting the new file to the repo.
 
 
 Resources:
