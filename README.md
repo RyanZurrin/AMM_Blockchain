@@ -21,9 +21,18 @@ This is what it looks like one you depoly your own custome coin contract:
 
 
 
-For making AMM contract folling instructions from here:
+For making AMM contract follow instrucions from following links:
+
+1. Here is a good tutorial for getting a basic understanding of what AMM's are and how they work:<br/>
+https://101blockchains.com/automated-market-makers/
+
+2. this link is good for basics but the tokens it uses are not erc20 tokens and just simple tokes they create. This is also the token that is made named REZCoinERC20.sol, this is not actually inheriting from a real ERC20 token, it just uses the same method names but is not actually an ERC20 token:<br/>
 https://learn.figment.io/tutorials/create-an-amm-on-avalanche
 
-I have successfully buitl and deployed both the ERC20 tokens and AMM constracts using Solidty, once deployed you will see options such as this :
+3. This is a AMM tutorial that does use ERC20 tokens, and is built on top of Cairo. It may be the one we want to use unless we just decide to use none ERC20  tokens for simplicity then we can just use the tutorial from #2 and make our own erc20 replicas. Here is link to AMM using ERC20:<br/>
+https://www.cairo-lang.org/docs/hello_starknet/amm.html
+
+
+I have successfully built and deployed both the ERC20 tokens and AMM constracts using Solidty, once deployed you will see options such as this. Note that this AMM that is in the repo so far is not actually using ERC20 tokens so we may want to go with a different one, and we can keep this one on stand by incase the one that does use ERC20 becomes to difficult or something:
 
 ![image](https://user-images.githubusercontent.com/43255897/162576066-83d6b920-2b0a-4a97-8b31-ca9940319648.png)
