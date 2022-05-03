@@ -36,3 +36,7 @@ https://www.cairo-lang.org/docs/hello_starknet/amm.html
 I have successfully built and deployed both the ERC20 tokens and AMM constracts using Solidty, once deployed you will see options such as this. Note that this AMM that is in the repo so far is not actually using ERC20 tokens so we may want to go with a different one, and we can keep this one on stand by incase the one that does use ERC20 becomes to difficult or something:
 
 ![image](https://user-images.githubusercontent.com/43255897/162576066-83d6b920-2b0a-4a97-8b31-ca9940319648.png)
+
+
+
+https://testnet.snowtrace.io/address/0x5844686c9d9f1ba3c35c81a806fa9d5e5063a74e#code
